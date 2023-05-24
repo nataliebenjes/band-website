@@ -1,11 +1,12 @@
 .sidebar {
     width: 50%;
-    float: right;
+    background-color: yellow;
+    border: 10px solid black;
+    padding: 10%;
+    margin: 2%;
 }
 .images {
-    
-    border-radius: 50%;
-    background-color: yellow;
+    padding: 10%;
     
 }
 
